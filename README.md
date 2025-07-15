@@ -51,7 +51,4 @@ ORDER BY arrest_rate DESC
 LIMIT 5;
 
 ## 🙋‍♂️ Author
-Melvin Moses M
-
-## 📜 License
-This project is licensed under the MIT License.
+Melvin Moses M.
